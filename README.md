@@ -1,4 +1,4 @@
-# Day-1--Fadha_3-_Fadha-Dangsati-Ababil
+# Day-1-Expedition33_Fadha Dangsati Ababil
 # Dokumentasi Workshop: From AI to GitHub
 
 **Nama Lengkap:** Fadha Dangsati Ababil
