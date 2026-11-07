@@ -23,7 +23,7 @@ Repository ini berisi dokumentasi pribadi selama mengikuti workshop **"From AI t
 |---|---|
 | Judul | From AI to GitHub: Building with AI, Managing Change with GitHub |
 | Pemateri | Nugi Farhan (Senior Product Designer) |
-| Tanggal | *(isi tanggal workshop)* |
+| Tanggal | 07/11/2026 |
 | Topik utama | Prompt Engineering, Git, GitHub, dan pembuatan aplikasi sederhana (Student Task Planner) |
 
 ### Capaian Pembelajaran Workshop
